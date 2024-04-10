@@ -3,8 +3,8 @@
 
 - [x] C++ Program to print "Hello, World!".
 - [x] C++ Program to print an integer entered by the user.
-- [ ] C++ Program to Add/Subtract/Multiply/Divide Two Integers.
-- [ ] C++ Program to Add/Subtract/Multiply/Divide Two Integers entered by the user.
+- [x] C++ Program to Add/Subtract/Multiply/Divide Two Integers.
+- [x] C++ Program to Add/Subtract/Multiply/Divide Two Integers entered by the user.
 - [ ] C++ Program to Add/Subtract/Multiply/Divide two Floating Point Numbers.
 - [ ] C++ Program to Compute Quotient and Remainder.
 - [ ] C++ Program to Calculate the Area and Circumference of a Circle.
