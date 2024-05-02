@@ -11,7 +11,7 @@
 - [x] C++ Program to Calculate the Area of a Scalene Triangle.
 - [x] C++ Program to Calculate the Area of an Equilateral Triangle.
 - [x] C++ Program to Calculate the Area of Right Angle Triangle.
-- [ ] C++ Program to Calculate the Area and Perimeter of a Rectangle.
+- [x] C++ Program to Calculate the Area and Perimeter of a Rectangle.
 - [ ] C++ Program to Calculate the Area and Perimeter of a Square.
 - [ ] C++ program that converts between Celsius and Fahrenheit temperatures based on user input. You can also add conversions for Kelvin.
 - [ ] C++ Program to Find ASCII Value of a Character.
