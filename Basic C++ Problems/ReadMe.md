@@ -9,8 +9,8 @@
 - [x] C++ Program to Compute Quotient and Remainder.
 - [x] C++ Program to Calculate the Area and Circumference of a Circle.
 - [x] C++ Program to Calculate the Area of a Scalene Triangle.
-- [ ] C++ Program to Calculate the Area of an Equilateral Triangle.
-- [ ] C++ Program to Calculate the Area of Right Angle Triangle.
+- [x] C++ Program to Calculate the Area of an Equilateral Triangle.
+- [x] C++ Program to Calculate the Area of Right Angle Triangle.
 - [ ] C++ Program to Calculate the Area and Perimeter of a Rectangle.
 - [ ] C++ Program to Calculate the Area and Perimeter of a Square.
 - [ ] C++ program that converts between Celsius and Fahrenheit temperatures based on user input. You can also add conversions for Kelvin.
