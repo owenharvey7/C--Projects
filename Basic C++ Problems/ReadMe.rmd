@@ -6,9 +6,9 @@
 - [x] C++ Program to Add/Subtract/Multiply/Divide Two Integers.
 - [x] C++ Program to Add/Subtract/Multiply/Divide Two Integers entered by the user.
 - [x] C++ Program to Add/Subtract/Multiply/Divide two Floating Point Numbers.
-- [ ] C++ Program to Compute Quotient and Remainder.
-- [ ] C++ Program to Calculate the Area and Circumference of a Circle.
-- [ ] C++ Program to Calculate the Area of a Scalene Triangle.
+- [x] C++ Program to Compute Quotient and Remainder.
+- [x] C++ Program to Calculate the Area and Circumference of a Circle.
+- [x] C++ Program to Calculate the Area of a Scalene Triangle.
 - [ ] C++ Program to Calculate the Area of an Equilateral Triangle.
 - [ ] C++ Program to Calculate the Area of Right Angle Triangle.
 - [ ] C++ Program to Calculate the Area and Perimeter of a Rectangle.
